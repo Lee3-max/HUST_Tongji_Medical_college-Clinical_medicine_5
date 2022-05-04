@@ -2,13 +2,21 @@
 
 ## 下载链接
 
-- 链接：https://pan.baidu.com/s/1_bB63ODyS0yKZzz8Xq707A?pwd=yctx 
+- 课程资料链接：https://pan.baidu.com/s/1_bB63ODyS0yKZzz8Xq707A?pwd=yctx 
   提取码：yctx 
+- 课程教材链接，包括教材和辅导
+
+​		链接：https://pan.baidu.com/s/1tSikhUNTl0cglg6zC2BC3w?pwd=biob 
+​		提取码：biob 
+
+
 - 如果失效了请联系我(2362313731@qq.com)
 
 ## 内容包括
 
 - 课程ppt（只读模式）
+- 课程讲义，这本讲义有一些内容不是医学细胞生物学的内容（比如叶绿体之类），可以忽略掉。
+- 课程教材以及辅导
 
 ## 后续更新
 
